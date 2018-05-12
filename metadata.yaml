@@ -1,0 +1,45 @@
+_repo: One-Shot_22958
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Van Dongen, H. R.
+    aliases:
+    - Van Dongen, Henry Richard
+    - Dongen, H. R. Van
+    - Dongen, van
+    birthdate: 1920
+    deathdate: 2010
+    gutenberg_agent_id: '26301'
+    url: http://www.gutenberg.org/2009/agents/26301
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blish, James
+    aliases:
+    - Blish, James Benjamin
+    - Atheling, William
+    birthdate: 1921
+    deathdate: 1975
+    gutenberg_agent_id: '25608'
+    url: http://www.gutenberg.org/2009/agents/25608
+description: What did people in the mid-twentieth-century expect the future to look
+  like? In "One-Shot," science fiction writer James Blish hit the bull's-eye with
+  a startling number of his predictions. It's a fast-paced must-read that is sure
+  to please true fans of the genre.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22958'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+title: One-Shot
+url: http://www.gutenberg.org/ebooks/22958
